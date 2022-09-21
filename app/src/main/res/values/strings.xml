@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">ADU</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Andijon Davlat Universiteti</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home" translatable="false">Bosh menyu</string>
+    <string name="menu_gallery" translatable="false">Bo'limlar</string>
+    <string name="menu_slideshow" translatable="false">Universitet yangiliklari</string>
+    <string name="universitet_yangiliklari" translatable="false">Universitet yangiliklari</string>
+    <string name="interaktiv_xizmatlar" translatable="false">Interaktiv xizmatlar</string>
+    <string name="o_quv_binolar" translatable="false">O\'quv binolar</string>
+    <string name="ijtimoiy_tarmoqlar" translatable="false">Ijtimoiy tarmoqlar</string>
+    <string name="bog_lanish" translatable="false">Bog\'lanish</string>
+    <string name="ilova_haqida" translatable="false">Ilova haqida</string>
+    <string name="ilovadan_chiqish" translatable="false">Ilovadan chiqish</string>
+</resources>

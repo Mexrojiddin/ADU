@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_boshMenyu"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_bolimlar"
+            android:icon="@drawable/ic_baseline_menu_24"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_yangiliklar"
+            android:icon="@drawable/ic_baseline_event_note_24"
+            android:title="@string/universitet_yangiliklari" />
+
+        <item
+            android:id="@+id/nav_xizmatlar"
+            android:icon="@drawable/ic_baseline_app_registration_24"
+            android:title="@string/interaktiv_xizmatlar" />
+        <item
+            android:id="@+id/nav_binolar"
+            android:icon="@drawable/ic_baseline_home_work_24"
+            android:title="@string/o_quv_binolar" />
+        <item
+            android:id="@+id/nav_tarmoqlar"
+            android:icon="@drawable/ic_baseline_insert_link_24"
+            android:title="@string/ijtimoiy_tarmoqlar" />
+        <item
+            android:id="@+id/nav_boglanish"
+            android:icon="@drawable/ic_baseline_contact_mail_24"
+            android:title="@string/bog_lanish" />
+        <item
+            android:id="@+id/nav_ilovaHaqida"
+            android:icon="@drawable/ic_baseline_playlist_add_check_24"
+            android:title="@string/ilova_haqida" />
+        <item
+            android:id="@+id/nav_chiqish"
+            android:icon="?attr/actionModeCloseDrawable"
+            android:title="@string/ilovadan_chiqish" />
+    </group>
+</menu>
